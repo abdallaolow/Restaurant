@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(100, 207, 51); color: gold;
+}
+h2{
+    color: rgb(255, 166, 0);
+}
+main{
+    background-color: aqua; color: black;
+}
+footer{
+    background-color: rgb(171, 197, 166); color: rgb(184, 11, 83);
+}
+header{
+    background-color: darkorange;
+}
+nav{
+    font-family:'Times New Roman', Times, serif ; background-color: aliceblue ;
+}
